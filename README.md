@@ -45,7 +45,7 @@ behavioral analysis and MITRE ATT&CK mapping. The goal was to answer:
 
 ---
 
-### 🧪 Laboratory Environment
+### Laboratory Environment
 
 - **Host:** Ubuntu Linux
 - **Analysis VM:** Windows XP Professional SP3 x86
@@ -62,7 +62,7 @@ behavioral analysis and MITRE ATT&CK mapping. The goal was to answer:
 
 ---
 
-### 🔐 Key Derivation Chain
+### Key Derivation Chain
 
 ```
 CryptGenRandom + system info
